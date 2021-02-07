@@ -14,7 +14,7 @@
     {
       "chainId": 5,
       "name": "DAI",
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "address": "0xfa1c36f01fea68726ec60cf1f050783aa9d1076c",
       "symbol": "DAI",
       "decimals": 18
     },
